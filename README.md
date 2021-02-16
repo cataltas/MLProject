@@ -1,1 +1,2 @@
-# MLProject
+# Machine Learning Project (Spring 2020)
+This project was undertaken by Camille Taltas, Tinatin Nikvashvili, Francesca Guiso, and Annika Brundyn. The goal was to find the best predictive model to tackle a multi-class multi-label problem. A few different approaches were tried and discussed in the report which can be found in the ML_Project.pdf file. The kneighbors.ipynb file includes our data exploration and some modeling and the nn2.py, and ova_linearsvc.py files include the code for our other modeling approaches.
